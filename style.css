@@ -5,7 +5,7 @@
     font-family: 'Poppins', sans-serif;
 }
 .back-ground{
-    background-image: url(/images/background.dd.jfif);
+    background-image: url(images/background.dd.jfif);
     background-repeat: no-repeat;
     background-size: cover;
 }
