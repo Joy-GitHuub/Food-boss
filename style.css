@@ -1,0 +1,18 @@
+/* font full body */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.font-body{
+    font-family: 'Poppins', sans-serif;
+}
+.back-ground{
+    background-image: url(/images/background.dd.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card{
+    transition: .9s ease-in-out;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
